@@ -1,5 +1,5 @@
 {
-  "requires": ["openssl", "ncurses"],
+  "requires": ["openssl", "ncurses", "marathon"],
   "sources": {
     "erlang": {
       "kind": "git",
